@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <!--
-**AnimaOleg/AnimaOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+   **AnimaOleg/AnimaOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,14 +16,8 @@ Here are some ideas to get you started:
 
 
 # Blond and Bald Oleg Tortajada 🙋‍
-
-
-
-
 # LinkedIn Profile
-<a target="_blank"><img src="[linkedin](https://github.com/AnimaOleg/AnimaOleg/assets/21308880/2d90412a-252b-4553-8ab4-6f4f270b502d)" height="50" width="200" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
-
-![linkedin](https://github.com/AnimaOleg/AnimaOleg/assets/21308880/2d90412a-252b-4553-8ab4-6f4f270b502d)
+<a target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230f95a0" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
 
 <hr />
 
