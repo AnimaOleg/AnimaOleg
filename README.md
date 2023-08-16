@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 # Blond and Bald Oleg Tortajada 🙋‍
-# LinkedIn Profile
-<a target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230f95a0" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
+# LinkedIn Profile <a target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230f95a0" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a>
 
 <hr />
 
