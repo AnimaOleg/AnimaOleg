@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Blond and Bald Oleg Tortajada 🙋‍
 
 # LinkedIn Profile
-<a target="_blank"><img src="[https://img.shields.io/badge/-Xamarin-%23d65e9a](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
+<a target="_blank"><img src="[https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw]" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
 
 <hr />
 
