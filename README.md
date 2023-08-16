@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 # LinkedIn Profile
-<a target="_blank"><img src="[https://github.com/AnimaOleg/AnimaOleg/assets/21308880/2d90412a-252b-4553-8ab4-6f4f270b502d]" height="41" width="100" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
+<a target="_blank"><img src="[linkedin](https://github.com/AnimaOleg/AnimaOleg/assets/21308880/2d90412a-252b-4553-8ab4-6f4f270b502d)" height="50" width="200" href="https://www.linkedin.com/in/oleg-tortajada-amor%C3%B3s-31b53383/"></a> |
 
 ![linkedin](https://github.com/AnimaOleg/AnimaOleg/assets/21308880/2d90412a-252b-4553-8ab4-6f4f270b502d)
 
